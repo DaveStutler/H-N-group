@@ -442,7 +442,7 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/Green\ blueprint.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/Green\ blueprint.jpeg);
   background-position: center;
   /* background-repeat: no-repeat; */
   min-height: 850px;
